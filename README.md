@@ -1,4 +1,4 @@
-# boomerChicken_炸雞原物料庫存管理系統
+# boomerChicken_噴射炸雞原物料庫存管理系統
 
 本專案是一個前端網頁系統，使用 **HTML + Bootstrap 5 + jQuery** 建構，提供簡單的原物料資料新增、修改、刪除功能，適用於管理炸雞店的原料庫存。
 
